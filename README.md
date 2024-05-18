@@ -20,7 +20,7 @@ LGAMA-G is a desktop application designed to automate the process of scraping Go
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/LGAMA-G.git
-   cd LGAMA-AI
+   cd LGAMA-G
    ```
 
 2. **Install Dependencies**
