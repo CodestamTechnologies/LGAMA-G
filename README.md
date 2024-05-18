@@ -1,4 +1,4 @@
-# LGAMA-AI
+# LGAMA-G
 
 LGAMA-G is a desktop application designed to automate the process of scraping Google search results and generating lead data using Gemini AI. The application is built using Python, and it provides a user-friendly interface for entering search queries, scraping data, and saving the results in CSV and Excel formats.
 
